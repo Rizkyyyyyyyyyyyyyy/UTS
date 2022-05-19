@@ -1,0 +1,160 @@
+<html>
+
+<head>
+
+<title>UTS</title>
+
+</head>
+
+<body>
+
+<p><b>Formulir Seleksi Mobile Legend UCIC</b></p>
+
+<p>Tim Mobile Legend UCIC</p>
+<p>Waktu Pengumpulan : Sabtu 09.00 - Selasa 12.00</p>
+
+<form method="POST" action=" " name="form_kursus">
+
+<table width="100%">
+
+
+
+
+
+<tr>
+
+<td>Nama</td>
+
+<td>:</td>
+
+<td><input type="text" name="nama" size="39"></td>
+
+</tr>
+
+<tr>
+
+<td>NIM</td>
+
+<td>:</td>
+
+<td><input type="text" name="NIM" size="39"></td>
+
+</tr>
+
+<tr>
+
+<td>Prodi dan Semester</td>
+
+<td>:</td>
+
+<td><input type="text" name="nama" size="39"></td>
+
+</tr>
+
+<tr>
+
+<td>Role Hero</td>
+
+<td>:</td>
+
+
+
+
+
+<td><input type="radio" value="T" checked name="rlh">Tank<br>
+
+<input type="radio" name="rlh" value="M">Mage<br>
+
+<input type="radio" name="rlh" value="MM">Marksman<br>
+
+<input type="radio" name="rlh" value="S">Support<br>
+
+<input type="radio" name="rlh" value="A">Assasin<br>
+
+<input type="radio" name="rlh" value="F">Fighter<br></td>
+
+</tr>
+
+<tr>
+
+<td>Nickname</td>
+
+<td>:</td>
+
+<td><input type="text" name="Nickname" size="39"></td>
+
+</tr>
+
+<tr>
+
+<td>Instagram</td>
+
+<td>:</td>
+
+<td><input type="text" name="Nickname" size="39"></td>
+
+</tr>
+
+<tr>
+
+<td>Hero Favorite/Signature</td>
+
+<td>:</td>
+
+<td><input type="text" name="Nickname" size="39"></td>
+
+</tr>
+
+<tr>
+
+<td>Contoh Gambar Favorite Hero</td>
+
+<td>:</td>
+
+<td href="favorite_hero_mobile_legend"><img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fimg.esportsku.com%2Fwp-content%2Fuploads%2F%2F2021%2F11%2FPlayer-Match-Ribuan-Mobile-Legends-1.jpg&imgrefurl=https%3A%2F%2Fesportsku.com%2Fplayer-mobile-legends-ml-miliki-ribuan-match-dengan-win-rate-100-kok-bisa%2F&tbnid=N3wKulReeisSsM&vet=12ahUKEwi8zK6_uur3AhXXi9gFHYeOCksQMygFegUIARDGAQ..i&docid=5_Nxrs-ujbzVTM&w=1700&h=956&q=favorite%20hero%20ml&ved=2ahUKEwi8zK6_uur3AhXXi9gFHYeOCksQMygFegUIARDGAQ" width="136" height="95"></td>
+
+</tr>
+
+<tr>
+
+<td>Role Lane</td>
+
+<td>:</td>
+
+<td><input type="radio" name="role" value="hyper">Hyper/Core<br>
+
+<input type="radio" name="role" value="mid">Mid Lane<br>
+
+<input type="radio" name="role" value="gold">Gold Lane<br>
+
+<input type="radio" name="role" value="exp">Exp Lane<br>
+
+<input type="radio" name="role" value="roam">Roaming<br></td>
+
+</tr>
+
+<tr>
+
+<td>Bermain Team/Solo</td>
+
+<td>:</td>
+    
+<td><select size="l" name="Bermain Team/Solo">
+    
+<option>Team</option>
+    
+<option>Solo</option>
+    
+</select></td>
+
+</tr>
+
+</table>
+
+<p><input type="submit" value="Submit" name="Bsubmit"><input type="reset" value="Reset" name="Breset"></p>
+
+</form>
+
+</body>
+
+</html>
